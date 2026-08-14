@@ -78,7 +78,7 @@ HolidayHunter/
 1. Download or clone the repository
 
 ```bash
-git clone <your-github-repo-link>
+git clone https://github.com/LHimaja-04/Holiday-Hunter
 ```
 
 2. Open the project folder
