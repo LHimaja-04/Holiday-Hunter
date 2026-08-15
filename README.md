@@ -1,6 +1,6 @@
 # HolidayHunter 🌍✈️
 
-HolidayHunter is a responsive front-end tourism and travel booking website developed using HTML, CSS, JavaScript, and Bootstrap.
+HolidayHunter is a responsive front-end tourism and travel website developed using HTML, CSS, JavaScript, and Bootstrap.
 The website showcases popular travel destinations, hotels, and exciting travel packages with an attractive user interface and auto-scrolling image carousel.
 
 ---
